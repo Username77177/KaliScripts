@@ -4,8 +4,6 @@ RED='\033[0;31m'
 GR='\033[0;32m'
 NC='\033[0m'
 #Programm
-cp ./USBUSRNAME.desktop /root/Desktop/
-echo "Shortcut Created!"
 echo "Fast moves?"
 echo "1 - Move WIN7 Password"
 echo "7 - rm all WIN7"
